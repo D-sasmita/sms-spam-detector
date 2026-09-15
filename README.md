@@ -48,8 +48,9 @@ streamlit run app.py
 
 Open the local URL displayed in your terminal, usually:
 http://localhost:8501
-
+ ```  
 Project Structure
+ ```  
 sms-spam-detector/
 ├── app.py            #Streamlit application
 ├── model.pkl         
@@ -58,10 +59,11 @@ sms-spam-detector/
  # Fitted TF-IDF vectorizer
 ├── requirements.txt   
  # Python dependencies
-└── README.md          
-Features
-- Real-time SMS spam classification
-- Confidence score for predictions
-- Example messages for quick testing
-- Session-based history of recent checks
-- Deployed on Streamlit Cloud
+└── README.md
+ ```  
+ ## Features
+Real-time SMS spam classification
+Confidence score for predictions
+Example messages for quick testing
+Session-based history of recent checks
+Deployed on Streamlit Cloud
