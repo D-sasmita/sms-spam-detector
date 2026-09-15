@@ -61,9 +61,3 @@ sms-spam-detector/
  # Python dependencies
 └── README.md
  ```  
- ## Features
-Real-time SMS spam classification
-Confidence score for predictions
-Example messages for quick testing
-Session-based history of recent checks
-Deployed on Streamlit Cloud
